@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm **Hatim**, a backend engineer with over **3 years of experience** in building web applications that don't just scale—they soar! 🚀 I have a passion for writing clean, efficient code, sticking to best practices like **SOLID** principles and keeping things **DRY** (because who likes soggy code, right?). 
+I'm **Hatim**, a backend engineer with over **5+ years of experience** in building web applications that don't just scale—they soar! 🚀 I have a passion for writing clean, efficient code, sticking to best practices like **SOLID** principles and keeping things **DRY** (because who likes soggy code, right?). 
 
 I specialize in designing and developing web applications from the ground up, always with an eye on making them scalable, reliable, and as consistent as my morning coffee routine. ☕️
 
